@@ -15,6 +15,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/HarshGahlawat7/Leetcode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
