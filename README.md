@@ -17,12 +17,14 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0002-add-two-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/HarshGahlawat7/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshGahlawat7/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +39,12 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
