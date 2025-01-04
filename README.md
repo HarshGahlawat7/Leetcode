@@ -35,6 +35,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HarshGahlawat7/Leetcode/tree/master/0027-remove-element) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Stack
 |  |
 | ------- |
