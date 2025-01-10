@@ -29,11 +29,13 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshGahlawat7/Leetcode/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshGahlawat7/Leetcode/tree/master/0027-remove-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Stack
