@@ -37,6 +37,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshGahlawat7/Leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/HarshGahlawat7/Leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Stack
@@ -54,5 +55,6 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/HarshGahlawat7/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
