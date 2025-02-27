@@ -12,6 +12,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0024-swap-nodes-in-pairs](https://github.com/HarshGahlawat7/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshGahlawat7/Leetcode/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
