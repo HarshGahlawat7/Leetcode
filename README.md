@@ -49,6 +49,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -66,4 +67,16 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/HarshGahlawat7/Leetcode/tree/master/0792-binary-search) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
