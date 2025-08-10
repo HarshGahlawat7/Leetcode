@@ -38,6 +38,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshGahlawat7/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshGahlawat7/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -97,4 +98,8 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshGahlawat7/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HarshGahlawat7/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
