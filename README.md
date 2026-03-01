@@ -102,4 +102,12 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshGahlawat7/Leetcode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
