@@ -27,6 +27,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0024-swap-nodes-in-pairs](https://github.com/HarshGahlawat7/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 ## String
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
 |  |
@@ -116,4 +118,8 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
