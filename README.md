@@ -111,6 +111,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HarshGahlawat7/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Greedy
 |  |
 | ------- |
