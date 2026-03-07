@@ -2,37 +2,40 @@ class Solution {
 public:
     int minFlips(string s) {
         int n = s.length();
-        string target1 = "", target2 = "";
-        
-        // Create target alternating patterns for the doubled length
-        for (int i = 0; i < 2 * n; i++) {
-            target1 += (i % 2 == 0) ? '0' : '1';
-            target2 += (i % 2 == 0) ? '1' : '0';
-        }
-        
-        string s_double = s + s;
         int diff1 = 0, diff2 = 0;
-        int res = 1e9; // Initialize with a large value
-        
-        int l = 0;
-        for (int r = 0; r < 2 * n; r++) {
-            // Add current character's difference to the window
-            if (s_double[r] != target1[r]) diff1++;
-            if (s_double[r] != target2[r]) diff2++;
-            
-            // If window size exceeds n, slide the left pointer
-            if ((r - l + 1) > n) {
-                if (s_double[l] != target1[l]) diff1--;
-                if (s_double[l] != target2[l]) diff2--;
-                l++;
-            }
-            
-            // Once window is exactly size n, track the minimum flips
-            if ((r - l + 1) == n) {
-                res = min({res, diff1, diff2});
-            }
+        int res = n; // Max possible flips is n
+
+        // 1. Initial window: Calculate flips for the first 'n' characters
+        // Target1: 0, 1, 0, 1... 
+        // Target2: 1, 0, 1, 0...
+        for (int i = 0; i < n; i++) {
+            if (s[i] - '0' != i % 2) diff1++;
+            if (s[i] - '0' == i % 2) diff2++;
         }
         
+        // If the string length is even, Type-1 operations don't change the 
+        // number of flips needed for an alternating string. 
+        // We only need the sliding window for odd lengths.
+        if (n % 2 == 0) return min(diff1, diff2);
+
+        res = min(diff1, diff2);
+
+        // 2. Sliding Window: Simulate cyclic shifts for 2n length
+        // We use i % n to wrap around the original string.
+        for (int i = 0; i < n; i++) {
+            // Remove the character at the left (i)
+            // It was compared against (i % 2)
+            if (s[i] - '0' != i % 2) diff1--;
+            if (s[i] - '0' == i % 2) diff2--;
+
+            // Add the same character at the right (effectively index i + n)
+            // It is now compared against ((i + n) % 2)
+            if (s[i] - '0' != (i + n) % 2) diff1++;
+            if (s[i] - '0' == (i + n) % 2) diff2++;
+
+            res = min({res, diff1, diff2});
+        }
+
         return res;
     }
 };
