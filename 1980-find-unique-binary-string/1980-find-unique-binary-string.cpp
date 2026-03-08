@@ -9,7 +9,6 @@ public:
     
     for (int i = 0; i <= n; i++) {
         if (seen.find(i) == seen.end()) {
-            // Convert integer back to bitset then to string
             string res = bitset<16>(i).to_string();
             return res.substr(16 - n);
         }
