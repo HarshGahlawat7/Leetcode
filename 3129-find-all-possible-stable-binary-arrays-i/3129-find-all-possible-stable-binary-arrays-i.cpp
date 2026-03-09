@@ -1,19 +1,13 @@
 class Solution {
 public:
     int numberOfStableArrays(int zero, int one, int limit) {
-        long long MOD = 1e9 + 7;
-
+        const int MOD = 1e9 + 7;
         vector<vector<vector<long long>>> dp(zero + 1, vector<vector<long long>>(one + 1, vector<long long>(2, 0)));
+        for (int i = 1; i <= min(zero, limit); i++) dp[i][0][0] = 1;
+        for (int j = 1; j <= min(one, limit); j++) dp[0][j][1] = 1;
 
-        for (int i = 1; i <= min(zero, limit); ++i) {
-            dp[i][0][0] = 1;
-        }
-        for (int j = 1; j <= min(one, limit); ++j) {
-            dp[0][j][1] = 1;
-        }
-
-        for (int i = 1; i <= zero; ++i) {
-            for (int j = 1; j <= one; ++j) {
+        for (int i = 1; i <= zero; i++) {
+            for (int j = 1; j <= one; j++) {
                 
                 dp[i][j][0] = (dp[i - 1][j][0] + dp[i - 1][j][1]) % MOD;
                 if (i > limit) {
