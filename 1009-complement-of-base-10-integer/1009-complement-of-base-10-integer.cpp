@@ -10,8 +10,6 @@ public:
             num_bits++;
         }
 
-        // Create a mask of all 1s of length num_bits
-        // (1U << 3) is 1000, subtracting 1 gives 0111
         unsigned int mask = (1U << num_bits) - 1;
 
         // XOR n with the mask to flip all bits up to the MSB
