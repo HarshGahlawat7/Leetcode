@@ -12,7 +12,6 @@ public:
 
         unsigned int mask = (1U << num_bits) - 1;
 
-        // XOR n with the mask to flip all bits up to the MSB
         return n ^ mask;
     }
 };
