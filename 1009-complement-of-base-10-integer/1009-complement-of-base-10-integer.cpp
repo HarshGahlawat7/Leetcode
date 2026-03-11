@@ -2,9 +2,7 @@ class Solution {
 public:
     int bitwiseComplement(int n) {
         if (n == 0) return 1;
-
-        // Find the number of bits in n
-        // For n = 5 (101), bits = 3
+        
         unsigned int num_bits = 0;
         int temp = n;
         while (temp > 0) {
