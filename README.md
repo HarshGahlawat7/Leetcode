@@ -77,6 +77,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/HarshGahlawat7/Leetcode/tree/master/0792-binary-search) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshGahlawat7/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
 |  |
 | ------- |
@@ -124,6 +125,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshGahlawat7/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -150,4 +152,16 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/HarshGahlawat7/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshGahlawat7/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshGahlawat7/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshGahlawat7/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
