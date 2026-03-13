@@ -20,6 +20,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0007-reverse-integer](https://github.com/HarshGahlawat7/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshGahlawat7/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +52,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1582-special-positions-in-a-binary-matrix](https://github.com/HarshGahlawat7/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshGahlawat7/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +79,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/HarshGahlawat7/Leetcode/tree/master/0792-binary-search) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshGahlawat7/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshGahlawat7/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
 |  |
@@ -125,6 +128,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshGahlawat7/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshGahlawat7/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
@@ -164,4 +168,8 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshGahlawat7/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshGahlawat7/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
