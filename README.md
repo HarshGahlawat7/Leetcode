@@ -20,6 +20,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0007-reverse-integer](https://github.com/HarshGahlawat7/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
+| [1622-fancy-sequence](https://github.com/HarshGahlawat7/Leetcode/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshGahlawat7/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
@@ -174,4 +175,12 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshGahlawat7/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/HarshGahlawat7/Leetcode/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/HarshGahlawat7/Leetcode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
