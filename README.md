@@ -59,6 +59,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshGahlawat7/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshGahlawat7/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshGahlawat7/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshGahlawat7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Stack
 |  |
 | ------- |
@@ -147,6 +148,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshGahlawat7/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshGahlawat7/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshGahlawat7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Simulation
 |  |
 | ------- |
@@ -202,4 +204,5 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HarshGahlawat7/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshGahlawat7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 <!---LeetCode Topics End-->
