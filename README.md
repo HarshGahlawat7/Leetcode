@@ -124,6 +124,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0001-two-sum](https://github.com/HarshGahlawat7/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshGahlawat7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1980-find-unique-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
 | ------- |
@@ -135,6 +136,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HarshGahlawat7/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HarshGahlawat7/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -210,5 +212,6 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HarshGahlawat7/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshGahlawat7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 <!---LeetCode Topics End-->
