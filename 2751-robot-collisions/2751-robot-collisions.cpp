@@ -14,7 +14,6 @@ public:
             robots[i] = {positions[i], healths[i], directions[i], i};
         }
 
-        // Sort robots by their physical position on the line
         sort(robots.begin(), robots.end(), [](const Robot& a, const Robot& b) {
             return a.pos < b.pos;
         });
@@ -26,7 +25,6 @@ public:
                 continue;
             }
 
-            // Current robot is moving Left, handle potential collisions with 'R' robots in stack
             while (!st.empty() && st.top().dir == 'R' && curr.health > 0) {
                 if (st.top().health < curr.health) {
                     st.pop();
@@ -45,14 +43,12 @@ public:
             }
         }
 
-        // Collect survivors
         vector<Robot> survivors;
         while (!st.empty()) {
             survivors.push_back(st.top());
             st.pop();
         }
 
-        // Sort survivors by original index to maintain input order
         sort(survivors.begin(), survivors.end(), [](const Robot& a, const Robot& b) {
             return a.id < b.id;
         });
