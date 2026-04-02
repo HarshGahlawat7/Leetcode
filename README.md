@@ -61,6 +61,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshGahlawat7/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshGahlawat7/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshGahlawat7/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HarshGahlawat7/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshGahlawat7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshGahlawat7/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
@@ -78,6 +79,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HarshGahlawat7/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HarshGahlawat7/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Memoization
 |  |
 | ------- |
@@ -158,6 +160,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshGahlawat7/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshGahlawat7/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HarshGahlawat7/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshGahlawat7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshGahlawat7/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
