@@ -22,15 +22,12 @@ public:
                 for (int i = 0; i < cmd; ++i) {
                     int nextX = x + dx[dir];
                     int nextY = y + dy[dir];
-                    
-                    // Check if the next step is an obstacle
+                  
                     if (obstacleSet.find({nextX, nextY}) == obstacleSet.end()) {
                         x = nextX;
                         y = nextY;
-                        // Update max distance at every step
                         maxDistSq = std::max(maxDistSq, x * x + y * y);
                     } else {
-                        // Hit an obstacle, stop moving for this command
                         break;
                     }
                 }
