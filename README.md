@@ -65,6 +65,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HarshGahlawat7/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshGahlawat7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshGahlawat7/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/HarshGahlawat7/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Stack
 |  |
@@ -179,6 +180,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [2069-walking-robot-simulation-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/HarshGahlawat7/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/HarshGahlawat7/Leetcode/tree/master/2751-robot-collisions) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -246,4 +248,8 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0584-find-customer-referee](https://github.com/HarshGahlawat7/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/HarshGahlawat7/Leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/HarshGahlawat7/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
