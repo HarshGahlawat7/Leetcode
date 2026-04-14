@@ -59,6 +59,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2463-minimum-total-distance-traveled](https://github.com/HarshGahlawat7/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/HarshGahlawat7/Leetcode/tree/master/2751-robot-collisions) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshGahlawat7/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshGahlawat7/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -85,6 +86,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HarshGahlawat7/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2463-minimum-total-distance-traveled](https://github.com/HarshGahlawat7/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HarshGahlawat7/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -242,6 +244,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HarshGahlawat7/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2463-minimum-total-distance-traveled](https://github.com/HarshGahlawat7/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/HarshGahlawat7/Leetcode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshGahlawat7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
