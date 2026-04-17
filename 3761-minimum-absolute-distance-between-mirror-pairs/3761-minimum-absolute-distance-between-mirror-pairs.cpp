@@ -15,13 +15,11 @@ public:
         bool found = false;
 
         for (int j = 0; j < n; ++j) {
-            // Check if current nums[j] was the reverse of a previous nums[i]
             if (last_seen_reverse.count(nums[j])) {
                 min_dist = min(min_dist, j - last_seen_reverse[nums[j]]);
                 found = true;
             }
 
-            // Store the reverse of current nums[j] as a potential target for future indices
             long long rev_j = reverseInt(nums[j]);
             last_seen_reverse[rev_j] = j;
         }
