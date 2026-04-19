@@ -8,15 +8,10 @@ public:
         int m = nums2.size();
 
         while (i < n && j < m) {
-            // Check if the current pair (i, j) is valid
             if (nums1[i] <= nums2[j]) {
-                // Update max distance (j - i)
                 maxDist = max(maxDist, j - i);
-                // Try to find a larger j for the current i
                 j++;
             } else {
-                // nums1[i] is too large for the current nums2[j],
-                // so we must move i to a smaller value.
                 i++;
             }
         }
