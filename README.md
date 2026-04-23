@@ -68,6 +68,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HarshGahlawat7/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/HarshGahlawat7/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/HarshGahlawat7/Leetcode/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/HarshGahlawat7/Leetcode/tree/master/2751-robot-collisions) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshGahlawat7/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshGahlawat7/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -154,6 +155,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshGahlawat7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0874-walking-robot-simulation](https://github.com/HarshGahlawat7/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/HarshGahlawat7/Leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/HarshGahlawat7/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -223,6 +225,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2615-sum-of-distances](https://github.com/HarshGahlawat7/Leetcode/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshGahlawat7/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
