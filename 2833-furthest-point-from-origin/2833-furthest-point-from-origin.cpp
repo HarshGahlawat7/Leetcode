@@ -14,8 +14,6 @@ public:
                 underscoreCount++;
             }
         }
-
-        // The furthest distance is the bias between L and R plus all wildcards
         return std::abs(lCount - rCount) + underscoreCount;
     }
 };
