@@ -2,10 +2,6 @@ class Solution {
 public:
     bool canPlace(const vector<long long>& pos, int k, int dist, long long perimeter) {
         int n = pos.size();
-        
-        // Since it's a circular arrangement, we try different starting points.
-        // Trying the first 'n' points is redundant; we only need to check 
-        // starts within the first interval. For k <= 25, this is efficient.
         for (int i = 0; i < n; ++i) {
             if (pos[i] > pos[0] + dist) break; 
             
@@ -28,8 +24,6 @@ public:
     int maxDistance(int side, vector<vector<int>>& points, int k) {
         int n = points.size();
         vector<long long> linear_pos;
-
-        // Step 1: Linearize the 2D boundary points
         for (auto& p : points) {
             int x = p[0], y = p[1];
             if (y == 0) linear_pos.push_back(x);
@@ -43,8 +37,6 @@ public:
         long long total_perimeter = 4LL * side;
         int low = 1, high = side;
         int ans = 1;
-
-        // Step 2: Binary Search for the maximum minimum distance
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (canPlace(linear_pos, k, mid, total_perimeter)) {
