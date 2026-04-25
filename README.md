@@ -41,6 +41,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshGahlawat7/Leetcode/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/HarshGahlawat7/Leetcode/tree/master/0455-assign-cookies) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HarshGahlawat7/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshGahlawat7/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -53,6 +54,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0455-assign-cookies](https://github.com/HarshGahlawat7/Leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/HarshGahlawat7/Leetcode/tree/master/0792-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/HarshGahlawat7/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -186,6 +188,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/HarshGahlawat7/Leetcode/tree/master/0455-assign-cookies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HarshGahlawat7/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -268,6 +271,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/HarshGahlawat7/Leetcode/tree/master/0455-assign-cookies) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HarshGahlawat7/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/HarshGahlawat7/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
