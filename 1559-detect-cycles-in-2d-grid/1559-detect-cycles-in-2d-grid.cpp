@@ -4,8 +4,6 @@ public:
              int r, int c, int pr, int pc, char target) {
         
         visited[r][c] = true;
-        
-        // Directions: Right, Left, Down, Up
         int dr[] = {0, 0, 1, -1};
         int dc[] = {1, -1, 0, 0};
 
@@ -21,7 +19,6 @@ public:
                     if (visited[nr][nc] && (nr != pr || nc != pc)) {
                         return true;
                     }
-                    // 4. If not visited, continue searching
                     if (!visited[nr][nc]) {
                         if (dfs(grid, visited, nr, nc, r, c, target)) {
                             return true;
@@ -40,7 +37,6 @@ public:
         for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
                 if (!visited[i][j]) {
-                    // Start DFS: (current_r, current_c, parent_r, parent_c, target_char)
                     if (dfs(grid, visited, i, j, -1, -1, grid[i][j])) {
                         return true;
                     }
