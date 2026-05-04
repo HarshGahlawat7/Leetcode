@@ -19,6 +19,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0002-add-two-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/HarshGahlawat7/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/HarshGahlawat7/Leetcode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
 | [1622-fancy-sequence](https://github.com/HarshGahlawat7/Leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -53,6 +54,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshGahlawat7/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/HarshGahlawat7/Leetcode/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/HarshGahlawat7/Leetcode/tree/master/0455-assign-cookies) |
@@ -212,6 +214,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HarshGahlawat7/Leetcode/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
