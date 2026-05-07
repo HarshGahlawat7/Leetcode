@@ -23,8 +23,6 @@ public:
         
         // Step 3: Identify components and fill the result
         for (int i = 0; i < n; ++i) {
-            // A component ends at i if the max of the left part 
-            // is <= the min of the remaining right part.
             if (i == n - 1 || prefMax[i] <= suffMin[i + 1]) {
                 int componentMax = prefMax[i];
                 for (int k = start; k <= i; ++k) {
