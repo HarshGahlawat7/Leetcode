@@ -26,8 +26,6 @@ public:
             // A component ends at i if the max of the left part 
             // is <= the min of the remaining right part.
             if (i == n - 1 || prefMax[i] <= suffMin[i + 1]) {
-                // The maximum reachable value for everyone in [start, i]
-                // is the maximum value within this contiguous block.
                 int componentMax = prefMax[i];
                 for (int k = start; k <= i; ++k) {
                     ans[k] = componentMax;
