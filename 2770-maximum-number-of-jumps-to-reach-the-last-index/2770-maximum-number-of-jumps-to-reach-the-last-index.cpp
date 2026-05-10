@@ -13,7 +13,6 @@ public:
                     // Use long long for the difference to prevent potential overflow
                     long long diff = (long long)nums[j] - nums[i];
                     
-                    // Check if the jump condition is satisfied
                     if (diff >= -target && diff <= target) {
                         dp[j] = std::max(dp[j], dp[i] + 1);
                     }
