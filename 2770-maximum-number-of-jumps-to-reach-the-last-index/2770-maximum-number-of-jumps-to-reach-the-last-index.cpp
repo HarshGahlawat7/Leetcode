@@ -4,8 +4,6 @@ public:
         int n = nums.size();
         // Initialize dp array with -1 to represent unreachable indices
         std::vector<int> dp(n, -1);
-        
-        // Base case: 0 jumps to reach the starting index
         dp[0] = 0;
 
         for (int j = 1; j < n; ++j) {
