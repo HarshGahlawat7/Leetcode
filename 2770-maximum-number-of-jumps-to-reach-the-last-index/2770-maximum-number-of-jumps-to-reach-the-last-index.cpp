@@ -4,7 +4,6 @@ public:
         int n = nums.size();
         std::vector<int> dp(n, -1);
         dp[0] = 0;
-
         for (int j = 1; j < n; ++j) {
             for (int i = 0; i < j; ++i) {
                 if (dp[i] != -1) {
