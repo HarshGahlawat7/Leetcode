@@ -84,6 +84,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HarshGahlawat7/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/HarshGahlawat7/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/HarshGahlawat7/Leetcode/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/HarshGahlawat7/Leetcode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshGahlawat7/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -252,6 +253,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1914-cyclically-rotating-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/HarshGahlawat7/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/HarshGahlawat7/Leetcode/tree/master/2751-robot-collisions) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sliding Window
