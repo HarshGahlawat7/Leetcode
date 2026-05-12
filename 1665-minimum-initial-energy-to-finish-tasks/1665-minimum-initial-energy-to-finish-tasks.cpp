@@ -12,14 +12,11 @@ public:
             int actual = task[0];
             int minimum = task[1];
 
-            // If our current energy is less than the minimum required to start,
-            // we must increase our initial energy pool by the difference.
             if (current_energy < minimum) {
                 initial_energy += (minimum - current_energy);
                 current_energy = minimum;
             }
             
-            // Spend the energy required for the task.
             current_energy -= actual;
         }
 
