@@ -67,6 +67,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0792-binary-search](https://github.com/HarshGahlawat7/Leetcode/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/HarshGahlawat7/Leetcode/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/HarshGahlawat7/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1306-jump-game-iii](https://github.com/HarshGahlawat7/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -165,6 +166,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshGahlawat7/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1306-jump-game-iii](https://github.com/HarshGahlawat7/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/HarshGahlawat7/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -181,6 +183,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshGahlawat7/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1306-jump-game-iii](https://github.com/HarshGahlawat7/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HarshGahlawat7/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
