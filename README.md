@@ -68,6 +68,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0860-lemonade-change](https://github.com/HarshGahlawat7/Leetcode/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/HarshGahlawat7/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/HarshGahlawat7/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -184,6 +185,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshGahlawat7/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1306-jump-game-iii](https://github.com/HarshGahlawat7/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HarshGahlawat7/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -193,6 +195,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0001-two-sum](https://github.com/HarshGahlawat7/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshGahlawat7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0874-walking-robot-simulation](https://github.com/HarshGahlawat7/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/HarshGahlawat7/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/HarshGahlawat7/Leetcode/tree/master/2615-sum-of-distances) |
