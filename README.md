@@ -93,6 +93,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [2540-minimum-common-value](https://github.com/HarshGahlawat7/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/HarshGahlawat7/Leetcode/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshGahlawat7/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/HarshGahlawat7/Leetcode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshGahlawat7/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/HarshGahlawat7/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -203,6 +204,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1980-find-unique-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/HarshGahlawat7/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/HarshGahlawat7/Leetcode/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshGahlawat7/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/HarshGahlawat7/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/HarshGahlawat7/Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -299,6 +301,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/HarshGahlawat7/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshGahlawat7/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Union-Find
 |  |
 | ------- |
