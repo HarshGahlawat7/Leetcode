@@ -262,6 +262,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3120-count-the-number-of-special-characters-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3614-process-string-with-special-operations-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -308,6 +309,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [2075-decode-the-slanted-ciphertext](https://github.com/HarshGahlawat7/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/HarshGahlawat7/Leetcode/tree/master/2751-robot-collisions) |
+| [3614-process-string-with-special-operations-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sliding Window
 |  |
