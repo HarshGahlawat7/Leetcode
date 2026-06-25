@@ -126,6 +126,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/HarshGahlawat7/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/HarshGahlawat7/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshGahlawat7/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -234,6 +235,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/HarshGahlawat7/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HarshGahlawat7/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshGahlawat7/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -335,6 +337,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshGahlawat7/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/HarshGahlawat7/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -370,6 +373,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [1622-fancy-sequence](https://github.com/HarshGahlawat7/Leetcode/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/HarshGahlawat7/Leetcode/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -407,6 +411,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -417,6 +422,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/HarshGahlawat7/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
 |  |
 | ------- |
@@ -433,4 +439,8 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
