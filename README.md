@@ -140,6 +140,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/HarshGahlawat7/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2751-robot-collisions](https://github.com/HarshGahlawat7/Leetcode/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -255,6 +256,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshGahlawat7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0657-robot-return-to-origin](https://github.com/HarshGahlawat7/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/HarshGahlawat7/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HarshGahlawat7/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
