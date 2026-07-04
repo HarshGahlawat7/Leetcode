@@ -11,10 +11,10 @@ public:
             count++;
         }
         else if(s[i] == ')'){
-            if(count > 1){
+            count--;
+            if(count > 0){
                 ans = ans + s[i];
             }
-            count--;
         }
        }
        return ans;
