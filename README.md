@@ -73,6 +73,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0792-binary-search](https://github.com/HarshGahlawat7/Leetcode/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/HarshGahlawat7/Leetcode/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/HarshGahlawat7/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1301-number-of-paths-with-max-score](https://github.com/HarshGahlawat7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/HarshGahlawat7/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/HarshGahlawat7/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1345-jump-game-iv) |
@@ -146,6 +147,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/HarshGahlawat7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/HarshGahlawat7/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/HarshGahlawat7/Leetcode/tree/master/1871-jump-game-vii) |
@@ -297,6 +299,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HarshGahlawat7/Leetcode/tree/master/0048-rotate-image) |
+| [1301-number-of-paths-with-max-score](https://github.com/HarshGahlawat7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
