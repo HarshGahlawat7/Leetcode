@@ -73,6 +73,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0792-binary-search](https://github.com/HarshGahlawat7/Leetcode/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/HarshGahlawat7/Leetcode/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/HarshGahlawat7/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1288-remove-covered-intervals](https://github.com/HarshGahlawat7/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshGahlawat7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/HarshGahlawat7/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/HarshGahlawat7/Leetcode/tree/master/1340-jump-game-v) |
@@ -403,6 +404,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/HarshGahlawat7/Leetcode/tree/master/0455-assign-cookies) |
+| [1288-remove-covered-intervals](https://github.com/HarshGahlawat7/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/HarshGahlawat7/Leetcode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HarshGahlawat7/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HarshGahlawat7/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
