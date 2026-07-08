@@ -33,6 +33,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshGahlawat7/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HarshGahlawat7/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -283,6 +284,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -360,6 +362,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshGahlawat7/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/HarshGahlawat7/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
