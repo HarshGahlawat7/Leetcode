@@ -218,6 +218,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/HarshGahlawat7/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HarshGahlawat7/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarshGahlawat7/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +237,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HarshGahlawat7/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarshGahlawat7/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HarshGahlawat7/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -384,6 +386,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/HarshGahlawat7/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HarshGahlawat7/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarshGahlawat7/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshGahlawat7/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -391,6 +394,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HarshGahlawat7/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarshGahlawat7/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
