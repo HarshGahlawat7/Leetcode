@@ -159,6 +159,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshGahlawat7/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshGahlawat7/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshGahlawat7/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2751-robot-collisions](https://github.com/HarshGahlawat7/Leetcode/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -285,6 +286,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0657-robot-return-to-origin](https://github.com/HarshGahlawat7/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshGahlawat7/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshGahlawat7/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HarshGahlawat7/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -312,6 +314,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [0455-assign-cookies](https://github.com/HarshGahlawat7/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/HarshGahlawat7/Leetcode/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshGahlawat7/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HarshGahlawat7/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -529,4 +532,8 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshGahlawat7/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshGahlawat7/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
