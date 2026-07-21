@@ -83,6 +83,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0792-binary-search](https://github.com/HarshGahlawat7/Leetcode/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/HarshGahlawat7/Leetcode/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/HarshGahlawat7/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/HarshGahlawat7/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshGahlawat7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/HarshGahlawat7/Leetcode/tree/master/1306-jump-game-iii) |
@@ -332,6 +333,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HarshGahlawat7/Leetcode/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshGahlawat7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -355,6 +357,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/HarshGahlawat7/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/HarshGahlawat7/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
