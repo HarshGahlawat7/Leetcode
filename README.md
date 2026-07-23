@@ -32,6 +32,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshGahlawat7/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarshGahlawat7/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/HarshGahlawat7/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HarshGahlawat7/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshGahlawat7/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -136,6 +137,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HarshGahlawat7/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/HarshGahlawat7/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/HarshGahlawat7/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshGahlawat7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -400,6 +402,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/HarshGahlawat7/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshGahlawat7/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
