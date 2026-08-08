@@ -63,6 +63,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1861-rotating-the-box](https://github.com/HarshGahlawat7/Leetcode/tree/master/1861-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/HarshGahlawat7/Leetcode/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshGahlawat7/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshGahlawat7/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -178,6 +179,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/HarshGahlawat7/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshGahlawat7/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarshGahlawat7/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HarshGahlawat7/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -309,6 +311,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [3093-longest-common-suffix-queries](https://github.com/HarshGahlawat7/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshGahlawat7/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HarshGahlawat7/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -328,6 +331,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [2126-destroying-asteroids](https://github.com/HarshGahlawat7/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarshGahlawat7/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshGahlawat7/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshGahlawat7/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshGahlawat7/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
