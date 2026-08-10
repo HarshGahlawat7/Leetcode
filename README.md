@@ -22,6 +22,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0009-palindrome-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HarshGahlawat7/Leetcode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/HarshGahlawat7/Leetcode/tree/master/1013-fibonacci-number) |
+| [1510-stone-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/HarshGahlawat7/Leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshGahlawat7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshGahlawat7/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -172,6 +173,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [1301-number-of-paths-with-max-score](https://github.com/HarshGahlawat7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/HarshGahlawat7/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/HarshGahlawat7/Leetcode/tree/master/1340-jump-game-v) |
+| [1510-stone-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/HarshGahlawat7/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HarshGahlawat7/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/HarshGahlawat7/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -548,4 +550,24 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshGahlawat7/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HarshGahlawat7/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
