@@ -58,6 +58,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshGahlawat7/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/HarshGahlawat7/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/HarshGahlawat7/Leetcode/tree/master/0455-assign-cookies) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HarshGahlawat7/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -79,6 +80,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/HarshGahlawat7/Leetcode/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HarshGahlawat7/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/HarshGahlawat7/Leetcode/tree/master/0455-assign-cookies) |
@@ -457,6 +459,7 @@ It will be showing my progress with Data Structures and Algorithms synced with m
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HarshGahlawat7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/HarshGahlawat7/Leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/HarshGahlawat7/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/HarshGahlawat7/Leetcode/tree/master/1340-jump-game-v) |
